@@ -1,0 +1,27 @@
+/* Defining variables for themes */
+:root {
+  --color-purple: theme('colors.purple.lighter');
+  --color-blue: theme('colors.blue.DEFAULT');
+  --color-pink: theme('colors.pink.light');
+}
+
+.dark {
+  --color-purple: theme('colors.purple.darker');
+  --color-blue: theme('colors.blue.darker');
+  --color-pink: theme('colors.pink.darker');
+}
+
+@keyframes gradientWave {
+  0% {
+    background-position: 200% 50%; /* The right edge of the background is initially */
+  }
+  100% {
+    background-position: 0% 50%; /* The left edge of the background is at the end */
+  }
+}
+
+.gradient-background {
+  background: linear-gradient(270deg, var(--color-purple) 0%, var(--color-blue) 33%, var(--color-pink) 66%, var(--color-purple) 100%);
+  background-size: 200% 200%; /* The background size is twice the width and height of the container to ensure a seamless transition. */
+  animation: gradientWave 6s linear infinite; /* Animation duration */
+}

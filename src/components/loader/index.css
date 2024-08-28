@@ -1,0 +1,7 @@
+:root {
+  --loader-color: theme('colors.purple.DEFAULT'); /* Default loader color */
+}
+
+.dark {
+  --loader-color: theme('colors.purple.lighter'); /* Loader color for dark theme */
+}

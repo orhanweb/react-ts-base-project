@@ -1,0 +1,39 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node.js Dependencies
+node_modules
+
+# Compilation and Output Files
+dist
+dist-ssr
+
+# Yerel Ayar Dosyaları
+*.local
+
+# Environmental Variable Files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Scope Reports
+coverage
+
+# Editor Directories and Files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
