@@ -6,10 +6,13 @@ Hey there! Welcome to this super cool React and TypeScript starter template. It'
 
 - Super Responsive Design
 - Built-in Notification System
-- Dark mode, light mode
 - Lazy Loading (because who doesn’t like speed?)
 - Custom Loader Components (fancy, right?)
 - Incredibly Clean File Structure (everything is exactly where it should be!)
+- Light/Dark Theme Toggle (choose your vibe)
+- Error and Not Found Pages
+- React Router Configuration (smooth and seamless navigation)
+- Framer Motion Animations
 
 ## Installation
 
