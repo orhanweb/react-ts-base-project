@@ -1,18 +1,20 @@
-# React TS Base Project
+# ⚛️ React TS Base Project
 
 Hey there! Welcome to this super cool React and TypeScript starter template. It's got everything you need to kickstart your next awesome project—responsive design, built-in notification system, lazy loading, and some nifty custom loader components. Perfect for building apps that are not only scalable but also a breeze to maintain.
 
-## Features
+🌟 **[Check out the live demo here!](https://orhanweb.github.io/react-ts-base-project/)**
 
-- Super Responsive Design
-- Built-in Notification System
-- Lazy Loading (because who doesn’t like speed?)
-- Custom Loader Components (fancy, right?)
-- Incredibly Clean File Structure (everything is exactly where it should be!)
-- Light/Dark Theme Toggle (choose your vibe)
-- Error and Not Found Pages
-- React Router Configuration (smooth and seamless navigation)
-- Framer Motion Animations
+## Features 🚀
+
+&nbsp;&nbsp;&nbsp;&nbsp;✨ &nbsp;**Super Responsive Design**  
+&nbsp;&nbsp;&nbsp;&nbsp;📢 &nbsp;**Built-in Notification System**  
+&nbsp;&nbsp;&nbsp;&nbsp;⚡ &nbsp;**Lazy Loading** (because who doesn’t like speed?)  
+&nbsp;&nbsp;&nbsp;&nbsp;🎛️ &nbsp;**Custom Loader Components** (fancy, right?)  
+&nbsp;&nbsp;&nbsp;&nbsp;🗂️ &nbsp;**Incredibly Clean File Structure** (everything is exactly where it should be!)  
+&nbsp;&nbsp;&nbsp;&nbsp;🌗 &nbsp;**Light/Dark Theme Toggle** (choose your vibe)  
+&nbsp;&nbsp;&nbsp;&nbsp;❗ &nbsp;**Error and Not Found Pages**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔗 &nbsp;**React Router Configuration** (smooth and seamless navigation)  
+&nbsp;&nbsp;&nbsp;&nbsp;🎞️ &nbsp;**Framer Motion Animations**
 
 ## Installation
 

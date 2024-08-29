@@ -28,6 +28,5 @@ const router: RouteObject[] = [
   },
 ];
 
-const routes = createBrowserRouter(router);
-
+const routes = createBrowserRouter(router, { basename: '/react-ts-base-project' });
 export default routes;
